@@ -1,5 +1,5 @@
 #Testing_the_trained_model -----
-path_t=r'C:\Users\User\Desktop\Jupy2\cb_face\val\ben_afflek\httpcsvkmeuadecafjpg.jpg'
+path_t=r'cb_face/httpcsvkmeuaeccjpg.jpg'
 img=cv.imread(path_t)
 gray=cv.cvtColor(img,cv.COLOR_BGR2GRAY)
 
