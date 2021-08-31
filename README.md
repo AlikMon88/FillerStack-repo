@@ -3,4 +3,4 @@ Over here are some of personal and academic works i did during my school years a
 years 
 It includes ML, NLP, CV, DL, RL, Neural Program Synthesis and Generative models
 
-From Primary --> Intermediate --> Advance 
+From Preliminary --> Intermediate --> Advance 
