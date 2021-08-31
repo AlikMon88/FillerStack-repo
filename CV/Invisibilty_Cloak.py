@@ -11,7 +11,7 @@ def rescaleframe(frame, scale=0.75):
     dimension = (width,height)
     return cv2.resize(frame, dimension, interpolation=cv2.INTER_AREA)        
         
-cap=cv2.VideoCapture('CV_MAT/book_gone_2.mp4')
+cap=cv2.VideoCapture('Video.mp4')
 for i in range(60):
     ret,background=cap.read()
     background=rescaleframe(background)
