@@ -25,7 +25,7 @@ while True:
             
     
     
-    cv.imshow('girl_talk', img)
+    cv.imshow('Final', img)
     if cv.waitKey(10) & 0xFF==ord('d'):
         break
 
