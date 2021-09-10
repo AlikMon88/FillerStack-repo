@@ -1,0 +1,22 @@
+<div class="dino_gen">
+	<center>
+	<br>
+	<br>
+	<hr>
+	<h2 style="font-family: Courier New;"><b> Dino-Name-Generator </b></h2>
+	<hr>
+	<h3 style="font-family: Courier New; color: floralwhite;" ><i> Embedding --> RNN --> Classif. </i></h3>
+	<body background="https://preview.redd.it/s605s55orur51.jpg?width=1920&format=pjpg&auto=webp&s=ec1c2a459e43bb2a251d7125a6a621a9237e065c">
+		<form action = "{{url_for('predict')}}" method = "post">
+			<input type="text" placeholder="    seed (a-z) " name = "seed" required="required" />
+			<br>
+			<p style="color: darkred;"><i> ** Only a Prototype_Model (doing 200 iterations)__Accuracy ~== 32 %  </i></p>
+			<br>
+			<button type="Submit" class="btn"> Generate </button>
+		</form>
+		<br>
+		<br>
+		{{ pred }}
+	</body>
+	</center>
+</div>
