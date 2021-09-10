@@ -3,5 +3,6 @@ Over here are some of personal and academic works i did during my school years a
 years 
 It includes Machine L, Sequential models , Computer Vision , Reinforcement L, Neural Program Synthesis and Generative models
 
-$$ JOURNEY
+LEARNING_JOURNEY
+
 Preliminary --> Intermediate --> Advance 
