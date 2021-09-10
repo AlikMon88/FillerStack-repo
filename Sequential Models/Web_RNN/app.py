@@ -3,7 +3,7 @@ import tensorflow as tf
 from keras.utils import to_categorical
 import numpy as np
 
-app = Flask(__name__, template_folder = 'template2')
+app = Flask(__name__, template_folder = 'template')
 
 dino_path = r'C:\Users\User\Desktop\Jupy2\dino_model.h5'
 with open(r'C:\Users\User\Desktop\Jupy2\C5_dataset\dinos.txt') as f:
