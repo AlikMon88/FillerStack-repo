@@ -5,4 +5,4 @@ It includes Machine L, Sequential models , Computer Vision , Reinforcement L, Ne
 
 LEARNING_JOURNEY
 
-Preliminary --> Intermediate --> Advance 
+Preliminary --> Intermediate --> Advance  (working on it // will finnish in 1 months from 13/9/21)
