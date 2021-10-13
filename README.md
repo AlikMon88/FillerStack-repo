@@ -2,7 +2,7 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/287/39/645/artificial-intelligence-ai-black-wallpaper-preview.jpg" height="200"/>
 </p>
 <hr>
-<h1 align="center"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="70"> I'm Alik Mondal</h1>
+<h1 align="center" style="padding-right: 70px"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="70" style="padding-right: 20px;"> I'm Alik Mondal</h1>
 <h3 align="center">Deep Learner | Machine Learner | Data Science Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
