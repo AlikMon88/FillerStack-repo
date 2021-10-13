@@ -2,7 +2,7 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/287/39/645/artificial-intelligence-ai-black-wallpaper-preview.jpg" height="200"/>
 </p>
 <hr>
-<h1 align="center" style="padding-right: 70px"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="50" style="padding-right: 20px;"> I'm Alik Mondal</h1>
+<h1 align="center" style="padding-right: 70px"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="70" style="padding-right: 20px;"> I'm Alik Mondal</h1>
 <h3 align="center">Deep Learner | Machine Learner | Data Science Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -17,17 +17,17 @@
 <p align="center">
   <em>
     I am Alik Mondal, a <b>2nd year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>BCAS, Delhi University</b>, Delhi</a>. <br>
-    A budding <b>Machine-Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    A budding <b>Machine-Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>interested<b> & obsessed</b>
+    with the idea of <b>Artifical General Intelligence</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://i.gifer.com/cLY.gif" width="30"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=300px alt="Man" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif" height="350" width="200" style="padding-right: 50px;" />
+<img align="right" width=300px alt="Man" src="https://i.pinimg.com/originals/83/e6/94/83e694fced01b62f25747556e49fe447.gif" height="350" width="200" style="padding-right: 50px;" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
