@@ -23,7 +23,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://i.pinimg.com/originals/38/2a/25/382a257e82075d16cec2a597b4ad6f23.gif" width="70"/>
+  <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b><img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
