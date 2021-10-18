@@ -16,14 +16,14 @@
 
 <p align="center">
   <em>
-    I am Alik Mondal, a <b>2nd year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>BCAS, Delhi University</b>, Delhi</a>. <br>
-    A budding <b>Machine-Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>interested<b> & obsessed</b>
+    I am Alik Mondal, a <b>2nd year</b> undergraduate from <a href="https://bcas.du.ac.in//"> <b>BCAS, Delhi University</b></a>
+    A budding <b>Machine-Learning Engineer~Learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Data-Scientist~Learner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>interested<b> </b>
     with the idea of <b>Artifical General Intelligence</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>succeed</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b><img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50"/>
+  <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50" /> <b><i>Always~Learning.... </i></b><img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="50"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
@@ -31,15 +31,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Pronouns: ***He/His*** <br>
+✔ I’m currently ==>> **Implementing Research Papers** | **Competing in Kaggle** | **Learning new Algorithms everyday**<br>
+✔ I’m currently learning **Neural Program Synthesis** | **Generative Models** | **Graph NN**<br>
+✔ I’m looking to work | brainstorm | collaborate with various eccentric/curious minds<br>
+✔ I’m looking to implement my Comp. Vision models in ***Embedded systems***<br>
+✔ I write kernels in [kaggle](https://www.kaggle.com/alikmondal) <br>
+✔ Contact me anytime, from anywhere!😁<br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
