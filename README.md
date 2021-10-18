@@ -57,8 +57,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"> </code>
   <code> <img height="50" src="https://www.pngkey.com/png/full/96-961478_in-order-to-show-how-holoviews-works-well.png"> </code>
-  <code> <img height="50" src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png
-"> </code>
+  <img height="50" src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png">
   <hr>
   <p align="center">
  <img src="https://i.pinimg.com/originals/37/5c/94/375c94ad0dbcbbf229d2938cba4aac45.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://i.pinimg.com/originals/37/5c/94/375c94ad0dbcbbf229d2938cba4aac45.gif" width="30px" alt="GitHub-Status"/></p>
@@ -73,7 +72,7 @@ Thanks for 😻 Reading:
 <div>
     <img src="https://pic.funnygifsbox.com/uploads/2019/09/funnygifsbox.com-2019-09-15-07-44-34-43.gif" style="width: 50px; height: 50px; float: left" />
     <img src="https://media2.giphy.com/media/zMBxHAnCevIXu/200w.gif" style="width: 50px; height: 50px; float: right;" />
-    <img src="https://pic.funnygifsbox.com/uploads/2019/10/funnygifsbox.com-2019-10-01-12-43-31-62.gif" style="display:block; margin-left: auto; margin-right:autto; width:50px;" />
+    <img src="https://pic.funnygifsbox.com/uploads/2019/10/funnygifsbox.com-2019-10-01-12-43-31-62.gif" style="display:block; margin-left: auto; margin-right:auto; width:50px;" />
         
 </div>
 
