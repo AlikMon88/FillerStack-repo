@@ -29,7 +29,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Man" src="https://i.pinimg.com/originals/83/e6/94/83e694fced01b62f25747556e49fe447.gif" height="350" width="200" style="padding-right: 50px;" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media2.giphy.com/media/EEzsFyPdvrG0w/giphy.gif" width="30px">&nbsp;***About-Me...***
 
 ✔ Pronouns: ***He/His*** <br>
 ✔ I’m currently ==>> **Implementing Research Papers** | **Competing in Kaggle** | **Learning new Algorithms everyday**<br>
@@ -40,7 +40,7 @@
 ✔ Contact me anytime, from anywhere!😁<br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media2.giphy.com/media/EEzsFyPdvrG0w/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
