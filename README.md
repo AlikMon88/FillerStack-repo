@@ -5,10 +5,10 @@
 <h1 align="center" style="padding-right: 70px"><img src="https://c.tenor.com/EbsMN6_dOvYAAAAM/quby-chan-hi.gif" height="70" style="padding-right: 20px;"> I'm Alik Mondal</h1>
 <h3 align="center">Deep Learner | Machine Learner | Data Science Enthusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkdin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
- <a href = "mailto: aliktrikemaf@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alik-mondal-921a971aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="linkdin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/micheal.fernandez.73307/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="fb" height="30" width="40" /></a>
+<a href="https://twitter.com/Lk85899624" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_1080.png" alt="twitter" height="30" width="40" /></a>
+ <a href = "mailto: aliktrikemaf@gmail.com"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="30" width="40" /></a>
 </p>
 </p>
 
