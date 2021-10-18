@@ -39,7 +39,8 @@
 ✔ Contact me anytime, from anywhere!😁<br><br><br>
  
 
-<img src="https://media2.giphy.com/media/EEzsFyPdvrG0w/giphy.gif" width="40px">&nbsp;*** Skills & Tools...  *** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px">
+<img src="https://media2.giphy.com/media/EEzsFyPdvrG0w/giphy.gif" width="40px">&nbsp;***Skills & Tools ...***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px">
 <p align="left">
   
   <code><img height="50" src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code> 
@@ -56,7 +57,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"> </code>
   <code> <img height="50" src="https://www.pngkey.com/png/full/96-961478_in-order-to-show-how-holoviews-works-well.png"> </code>
-  <code> <img height="50" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400
+  <code> <img height="50" src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png
 "> </code>
   <hr>
   <p align="center">
@@ -68,17 +69,6 @@
 <hr>
 
 Thanks for 😻 Reading:
-
-<head>
-<style type="text/css">
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50px;
-}
-</style>
-</head>
 
 <div>
     <img src="https://pic.funnygifsbox.com/uploads/2019/09/funnygifsbox.com-2019-09-15-07-44-34-43.gif" style="width: 50px; height: 50px; float: left" />
