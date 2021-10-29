@@ -9,7 +9,7 @@
     <li><a href = "CV"><code> Computer Vision </code></a></li>
     <li><a href = "Sequential Models"><code> Natural Language Processing </code></a>
     <ul type="s">
-      <li>< a href="https://www.kaggle.com/alikmondal/named-entity-recognition-using-rnn"> Name Entity Recognition (Kaggle) </a></li>
+      <li><a href="https://www.kaggle.com/alikmondal/named-entity-recognition-using-rnn"><code> Name Entity Recognition (Kaggle) </code></a></li>
     </ul>
     </li>
     <li><a href = "Experimentals"><code> Experimental Models </code></a></li>
