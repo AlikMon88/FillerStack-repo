@@ -6,7 +6,7 @@
 <hr>
 <p align = "Left"><code> ML projects </code>
   <ul type = "o">
-    <li><a style="color:yellow;" href = "CV"><code> Computer Vision </code></a></li>
+    <li style="color:yellow;"><a href = "CV"><code> Computer Vision </code></a></li>
     <li><a style="color:yellow;" href = "Sequential Models"><code> Natural Language Processing </code></a>
     <ul type="s">
       <li><a style="color:yellow;" href="https://www.kaggle.com/alikmondal/named-entity-recognition-using-rnn"><code> Name Entity Recognition (Kaggle) </code></a></li>
