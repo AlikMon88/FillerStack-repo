@@ -6,14 +6,14 @@
 <hr>
 <p align = "Left"><code> ML projects </code>
   <ul type = "o">
-    <li><a href = "CV"><code> Computer Vision </code></a></li>
-    <li><a href = "Sequential Models"><code> Natural Language Processing </code></a>
+    <li><a style="color:yellow;" href = "CV"><code> Computer Vision </code></a></li>
+    <li><a style="color:yellow;" href = "Sequential Models"><code> Natural Language Processing </code></a>
     <ul type="s">
-      <li><a href="https://www.kaggle.com/alikmondal/named-entity-recognition-using-rnn"><code> Name Entity Recognition (Kaggle) </code></a></li>
+      <li><a style="color:yellow;" href="https://www.kaggle.com/alikmondal/named-entity-recognition-using-rnn"><code> Name Entity Recognition (Kaggle) </code></a></li>
     </ul>
     </li>
-    <li><a href = "Experimentals"><code> Experimental Models </code></a></li>
-    <li><code> Data Analysis & Predictive Modelling </code></a>
+    <li><a style="color:yellow;" href = "Experimentals"><code> Experimental Models </code></a></li>
+    <li style="color:yellow;"><code> Data Analysis & Predictive Modelling </code></a>
       <ul type = "s">
         <li><a href = "https://www.kaggle.com/alikmondal/internationalfootball-game-result-predictor"><code> International-Football-DataAnalysis & Score - Prediction (Kaggle)</code></a></li>
         <li><a href = "https://www.kaggle.com/alikmondal/titanic-dataset-beginner-deep-dive"><code> Titanic-Dataset Deep Dive (Kaggle)</code></a></li>
