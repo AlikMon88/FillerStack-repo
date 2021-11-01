@@ -2,7 +2,7 @@
   <img src="extra/back_gif.gif" height="200" width ="100%"/>
 </p>
 <p align = "center">
-  <img src = "extra/fillerstack.gif" height = "auto" width = "auto" />
+  <img src = "extra/fillerstack2.gif" height = "auto" width = "auto" />
 </p>
 <hr>
 <p align="center" ><code> { ..ML, C.Vision, NLP, NPS, Gen.M.. } models ../.. Paper_Implementations </code></p>
