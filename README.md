@@ -13,7 +13,8 @@
     <li><a href = "Sequential Models"><code> Natural Language Processing </code></a><br>
     <ul type="s">
       <li><a href="https://www.kaggle.com/alikmondal/named-entity-recognition-using-rnn"><code> Name Entity Recognition (Kaggle Kernel) </code></a></li>
-      <li><a href = "https://www.kaggle.com/alikmondal/weather-forecasting-using-rnn"><code> Weather-Forecasting using RNN (Kaggle Kernel)</code></a></li><br>
+      <li><a href = "https://www.kaggle.com/alikmondal/weather-forecasting-using-rnn"><code> Weather-Forecasting using RNN (Kaggle Kernel)</code></a></li>
+      <li><a href = "https://www.kaggle.com/alikmondal/emotion-detection-tweets-transformers"><code> Emotion Detection (Tweets) using Transformers (Kaggle Kernel)</code></a></li><br>
     </ul>
     </li>
     <li><a href = "Experimentals"><code> Experimental Models </code></a></li><br>
