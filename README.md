@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="extra/back_gif.gif" height="200" width ="100%"/>
+  <img src="extra/tech.gif" height="200" width ="100%"/>
 </p>
 <p align = "center">
   <img src = "extra/fillerstack2.gif" height = "auto" width = "auto" />
